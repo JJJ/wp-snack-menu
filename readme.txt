@@ -21,7 +21,7 @@ WP Snack Menu comes with a few filters to let you customize the menu if needed.
 
 = Does this create new database tables? =
 
-No. It creates a new `wp_termmeta` database table for each site it's activated on.
+No. There are no new database tables with this plugin.
 
 = Does this modify existing database tables? =
 
